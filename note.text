@@ -1,0 +1,6 @@
+npm i express dotenv mongoose colors
+npm i -D nodemon
+"start":"node backend/server.js",
+"dev":"nodemon backend/server.js"
+
+npm i express-async-handler
