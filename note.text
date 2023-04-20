@@ -4,3 +4,8 @@ npm i -D nodemon
 "dev":"nodemon backend/server.js"
 
 npm i express-async-handler
+
+npm i bcryptjs
+npm i jsonwebtoken
+
+protect route
